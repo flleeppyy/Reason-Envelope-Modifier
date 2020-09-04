@@ -1,7 +1,7 @@
 # Reason Envelope Modifier
 
 This is a project dedicated to a DAW called [Reason](https://reasonstudios.com), which contains these 2 nifty devices that has user defined envelopes.
-The devices are called [Europa Shapeshifting Synthesizer](https://www.reasonstudios.com/en/reason/instruments/europa), and (Grain Sample Manipulator)[https://www.reasonstudios.com/en/reason/instruments/grain]
+The devices are called [Europa Shapeshifting Synthesizer](https://www.reasonstudios.com/en/reason/instruments/europa), and [Grain Sample Manipulator](https://www.reasonstudios.com/en/reason/instruments/grain)
 I wanted to take advantage of this, and make sharp sounding waveforms, but because of how small the box is for editing 
 
 
