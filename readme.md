@@ -17,6 +17,7 @@ https://github.com/flleeppyy/Reason-Envelope-Modifier/blob/master/Init%20Patch.r
 
 # HEX bytes
 
+```
 Bytes 1-5 are 01 = off 02 or greater = on
 Byte 1: Beat sync
 Byte 2: Key Trigger
@@ -37,3 +38,4 @@ Sync rates are defined earlier in the document, with their values as regular int
 and so on...
 
 Any extra bytes after this are new points. (Basically Bytes 7-9 repeated)
+```
