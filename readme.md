@@ -20,11 +20,11 @@ Theres a 5th curve that is just a long line of 70707070707070.. and I'm not sure
 
 ## HEX bytes
 
-#Diagram
+# Diagram
 
 ![Diagram that is very shit](https://raw.githubusercontent.com/flleeppyy/Reason-Envelope-Modifier/master/shittyfuckingdiagram.png)
 
-#Value guide
+# Value guide
 
 ```
 Bytes 1-5 are 01 = off; 02 or greater = on
