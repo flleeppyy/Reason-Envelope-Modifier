@@ -14,6 +14,9 @@ Download the init patch (Basically the whole device is reset)
 Remember, the file extension needs to be .repatch
 https://github.com/flleeppyy/Reason-Envelope-Modifier/blob/master/Init%20Patch.repatch
 
+The .repatch is in an XML format, which details what parameters have what values.
+There are 4 curves, all of which are in HEX format,
+Theres a 5th curve that is just a long line of 70707070707070.. and I'm not sure what it does.
 
 ## HEX bytes
 
