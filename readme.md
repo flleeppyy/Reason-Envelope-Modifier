@@ -22,7 +22,7 @@ Theres a 5th curve that is just a long line of 70707070707070.. and I'm not sure
 
 #Diagram
 
-![Diagram that is very shit](https://)
+![Diagram that is very shit](https://raw.githubusercontent.com/flleeppyy/Reason-Envelope-Modifier/master/shittyfuckingdiagram.png)
 
 #Value guide
 
