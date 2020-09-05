@@ -18,8 +18,10 @@ namespace EnvelopeModifier
             InitializeComponent();
         }
 
-        private void OpenRepatch(object sender, EventArgs e) =>
+        private void OpenRepatch(object sender, EventArgs e)
+        {
             //MessageBox.Show("Clicked thing", "holy crap you click button", MessageBoxButtons.YesNo);
-            UserDialogs.SelectFile("" +"*.repatch", "");
+            //UserDialogs.SelectFile("" +"*.repatch", ""); // This causes an error, dunno why
+        }
     }
 }
