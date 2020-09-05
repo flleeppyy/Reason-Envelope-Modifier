@@ -20,8 +20,14 @@ Theres a 5th curve that is just a long line of 70707070707070.. and I'm not sure
 
 ## HEX bytes
 
+#Diagram
+
+![Diagram that is very shit](https://)
+
+#Value guide
+
 ```
-Bytes 1-5 are 01 = off 02 or greater = on
+Bytes 1-5 are 01 = off; 02 or greater = on
 Byte 1: Beat sync
 Byte 2: Key Trigger
 Byte 3: Loop
@@ -29,12 +35,13 @@ Byte 4: Bipolar
 Byte 5: Global
 Byte 6: Sustain marker position
 
-Byte 7: This point X position
-Byte 8: This point Y position
-Byte 9: Curve that leads off to the next point (Maximum user defined value=A1, Maximum Value=C8; Anything greater will not have any effect)
+The following three are for creating points in the envelope.
+This is basically a template.
 
-Any extra bytes after this are new points. (Basically Bytes 7-9 repeated)
-7,8, & 9 will be your main interest here.
+First byte: X position
+Second Byte: Y position
+Third Byte: Curve that leads off to the next point (Maximum user defined value=A1, Maximum Value=C8; Anything greater will not have any effect)
+
 
 Sync rates are defined earlier in the document, with their values as regular integers.
 0 = 8 Bar
