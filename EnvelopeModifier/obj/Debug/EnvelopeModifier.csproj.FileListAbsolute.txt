@@ -1,0 +1,10 @@
+D:\Development things\Reason Europa Envelope Modifier\EnvelopeModifier\obj\Debug\EnvelopeModifier.csprojAssemblyReference.cache
+D:\Development things\Reason Europa Envelope Modifier\EnvelopeModifier\obj\Debug\EnvelopeModifier.EnvelopeWindow.resources
+D:\Development things\Reason Europa Envelope Modifier\EnvelopeModifier\obj\Debug\EnvelopeModifier.Properties.Resources.resources
+D:\Development things\Reason Europa Envelope Modifier\EnvelopeModifier\obj\Debug\EnvelopeModifier.csproj.GenerateResource.cache
+D:\Development things\Reason Europa Envelope Modifier\EnvelopeModifier\obj\Debug\EnvelopeModifier.csproj.CoreCompileInputs.cache
+D:\Development things\Reason Europa Envelope Modifier\EnvelopeModifier\bin\Debug\EnvelopeModifier.exe.config
+D:\Development things\Reason Europa Envelope Modifier\EnvelopeModifier\bin\Debug\EnvelopeModifier.exe
+D:\Development things\Reason Europa Envelope Modifier\EnvelopeModifier\bin\Debug\EnvelopeModifier.pdb
+D:\Development things\Reason Europa Envelope Modifier\EnvelopeModifier\obj\Debug\EnvelopeModifier.exe
+D:\Development things\Reason Europa Envelope Modifier\EnvelopeModifier\obj\Debug\EnvelopeModifier.pdb

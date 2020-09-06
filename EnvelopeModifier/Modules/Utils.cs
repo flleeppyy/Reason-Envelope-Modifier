@@ -7,9 +7,9 @@ using System.Windows.Forms;
 
 namespace EnvelopeModifier.Modules
 {
-    class Utils
+    public static class Utils
     {
-        string ToHex(this int value, string Hex)
+        static string ToHex(this int value, string Hex)
         {
             return String.Format(Hex, value);
         }
